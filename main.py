@@ -4,7 +4,7 @@ import telebot
 from telegraph import Telegraph, TelegraphException
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-TOKEN = ''
+TOKEN = '8509178382:AAH1OdD0sQdD7hBij_UxIybdmvmUnywniS0'
 bot = telebot.TeleBot(TOKEN)
 
 telegraph = Telegraph()
